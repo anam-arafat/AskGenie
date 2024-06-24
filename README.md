@@ -2,10 +2,6 @@
 
 AskGenie is a responsive web application designed as a clone of Gemini, utilizing the powerful Gemini API to offer similar functionalities. It allows users to interact seamlessly with the Gemini API through a user-friendly interface, providing real-time data updates and an optimized experience across various devices.
 
-## Description
-
-AskGenie is built with the primary goal of emulating the functionalities of Gemini while offering a sleek, modern, and responsive user interface. Whether you are on a desktop, tablet, or smartphone, AskGenie adapts to provide the best possible user experience.
-
 ## Key Features
 
 - **Responsive Design:** Built with a mobile-first approach, ensuring compatibility and optimal performance on all device sizes.
